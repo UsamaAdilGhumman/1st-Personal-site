@@ -1,0 +1,30 @@
+body
+{
+	background: url("../image/bg.jpg");
+	text-align: center;
+	color: white;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+img
+{
+	border-radius: 50%;
+	border: 6px solid white;
+}
+h1,p
+{
+	color: white;
+	font-family: helvetica;
+}
+input
+{
+	border: 0;
+	padding: 10px;
+}
+input[type="submit"]
+{
+	color: white;
+	background-color: red;
+	padding: 10px 50px;
+}
